@@ -1,6 +1,6 @@
 <img src="https://github.com/AryanBabber/AryanBabber/blob/main/Your%20friendly%20neighbourhood%20developer.png" alt="Aryan Babber" />
 
-<h2 align='center'>Hello everyone, I am Aryan, and I love programming </h2>
+<h2 align='center'>Hello everyone, I am Aryan, and I love programming and I want to help the community like they did when I was learning</h2>
 
 ### Consider following my socials to stay updated if you like my content
 <br>
