@@ -37,3 +37,8 @@
   - Open Source
   > **Note** (to self: )<br>
   > Create more Content and contribute more in open source
+
+
+## Stats
+
+![Aryan Babber's Stats](https://github-readme-stats.vercel.app/api?username=AryanBabber&show_icons=true&theme=dracula)
