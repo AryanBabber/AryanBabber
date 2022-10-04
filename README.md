@@ -30,7 +30,7 @@
   - [Movie Rating App](https://github.com/AryanBabber/Javascript-10-big-projects/tree/main/Movie%20App)
   - [Live Clock](https://github.com/AryanBabber/JavaScript-clock)
 
-- Apart from Coding and all, I interst myself in
+- Apart from Coding and all, I interest myself in
   - Sports
   - Videogames
   - Creating Content
